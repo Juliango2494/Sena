@@ -1,15 +1,38 @@
 header{
     display: flex;
     flex-direction:row ;
-    background-color: rgb(195, 108, 16);
+    justify-content: space-around;
+    background-color: rgb(169, 177, 161);
 }
 nav{
     display: flex;
     flex-direction: row;
-    background-color: blue;
+    justify-content: space-around;
+    background-color: rgb(89, 97, 90);
 }
 main{
     display: flex; 
-    background-color: black; 
+    justify-content: space-evenly;
+   
+}
+article{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+section{
+    display: flex;
+    flex-direction: column;
+
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(89, 97, 90);    
 }
 
