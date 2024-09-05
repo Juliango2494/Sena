@@ -1,3 +1,4 @@
+//// PONER CODIGO BARRAS SIMIL ID // REGISTRA EL PRODUCTO
 let articulos = [
     {nombre : "chocolatina", precio : 1500, stock : 4},
     {nombre : "barquillos", precio : 1500, stock : 8},
