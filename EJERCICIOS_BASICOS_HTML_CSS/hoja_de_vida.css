@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    flex-direction:row ;
+    justify-content:space-around;
+    background-color: antiquewhite;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+main{
+    display: flex;
+    flex-direction:row ; 
+    justify-content: space-evenly;
+   
+}
+article{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+section{
+    display: flex;
+    flex-direction: column;
+
+}
+aside{
+    display: flex;
+    flex-direction: column;
+  
+}
+footer{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+    background-color: antiquewhite; 
+}
+.color_letra {
+    color: rgb(237, 230, 230);
+}
+.resaltar {
+    background-color: rgb(125, 118, 108);
+}
+.espaciar {
+    justify-content: space-around;
+}
